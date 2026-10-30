@@ -1,0 +1,16 @@
+{
+  "name": "Juego Matematica",
+  "short_name": "Matematica",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#030712",
+  "description": "Un divertido juego web de proporciones y matematicas.",
+  "icons": [
+    {
+      "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
